@@ -5,7 +5,7 @@ CU Connect is being designed to not be just another social networking app, but i
 that’s supposed to bring together the students of the university under one platform for easy
 communication. This has been made using Node.js and Stream designed specially as a college project for Chandigarh University.
 
-
+<h1><a href="cuconnect.netlify.app">Try the project here.</a></h1>
 
 
 ## Authors
