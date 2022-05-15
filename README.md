@@ -5,7 +5,7 @@ CU Connect is being designed to not be just another social networking app, but i
 that’s supposed to bring together the students of the university under one platform for easy
 communication. This has been made using Node.js and Stream designed specially as a college project for Chandigarh University.
 
-<h1><a href="cuconnect.netlify.app">Try the project here.</a></h1>
+<h3><a href="https://cuconnect.netlify.app/">Try the project here.</a></h3>
 
 
 ## Authors
@@ -46,4 +46,5 @@ Main Chat Feed
 
 ## Support
 
-If you like the project please leave  star and follow me on github. For support you can text me on telegram at https://t.me/amit15334
+If you like the project please leave  star and follow me on github. For support you can reach me at https://t.me/amitskr on telegram.
+Visit my website: <a href="https://amitsarkar.netlify.app/">Click Here 🐬</a>
